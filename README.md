@@ -1,4 +1,4 @@
-Ergebniss der Ausführung:
+Ergebnis der Ausführung:
 
 Erste Implementierung (isBlank) - Durchschnittliche Gesamtzeit: 1808116.407 Nanosekunden
 Erste Implementierung (isBlank) - Standardabweichung: 429410.9073458186 Nanosekunden
